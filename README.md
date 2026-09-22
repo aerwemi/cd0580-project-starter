@@ -1,4 +1,4 @@
-# Predict Customer Churn
+# Predict Customer Churn - Naser Erwemi
 
 - Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree (Udacity)
 
